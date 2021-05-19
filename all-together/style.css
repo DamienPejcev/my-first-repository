@@ -1,0 +1,46 @@
+main {
+  width: 600px;
+  margin: auto;
+}
+
+header {
+  background-color: aqua;
+  height: 100px;
+}
+
+article {
+  background-color: red;
+  width: 340px;
+  height: 600px;
+  margin: auto;
+}
+
+section {
+  display: flex;
+}
+
+#sidebar1 {
+  background-color: orange;
+  width: 110px;
+  height: 600px;
+}
+
+#sidebar2 {
+  background-color: purple;
+  width: 110px;
+  height: 600px;
+}
+
+footer {
+  background-color: blue;
+  height: 100px;
+}
+
+mark {
+  background-color: black;
+  height: 50px;
+  width: 50px;
+  position: fixed;
+  right: 715px;
+  bottom: 130px;
+}

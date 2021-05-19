@@ -1,0 +1,153 @@
+.wholehead {
+  position: relative;
+}
+
+img {
+  width: 70%;
+  display: block;
+  margin: auto;
+  margin-bottom: 50px;
+}
+
+.headtext {
+  position: absolute;
+  left: 530px;
+  top: 210px;
+  font-family: 'Abril Fatface', cursive;
+
+
+}
+
+#mainheader1 {
+  font-size: 35px;
+  font-weight: 50;
+  line-height: 20px;
+
+}
+
+#mainheader2{
+  margin-top: 0px;
+  font-size: 70px;
+  font-weight: 50;
+  line-height: 20px;
+}
+
+.text {
+  width: 41%;
+  margin: auto;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+  font-size: 18px;
+  line-height: 30px;
+  margin-bottom: 20px;
+}
+
+
+ul {
+  font-family: 'Josefin Sans', sans-serif;
+  color: #222;
+  font-size: 18px;
+  line-height: 30px;
+}
+
+
+blockquote {
+  margin: auto;
+  width: 850px;
+}
+
+.quote {
+  font-family: 'Abril Fatface', cursive;
+  background-color: #404040;
+  padding: 50px;
+  color: white;
+  font-size: 50px;
+}
+
+#firstquo::before {
+  content: '“';
+  font-size: 150px;
+  position: absolute;
+  left: 435px;
+  top: 670px;
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+
+}
+
+.artheader {
+  font-family: 'Roboto', sans-serif;
+  font-size: 25px;
+  margin-bottom: 55px;
+  font-weight: bold;
+  
+}
+
+.artheader2 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 21px;
+  line-height: 40px;
+  font-weight: bold;
+}
+
+.lowtxt {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 14px;
+}
+
+#secondquo::before {
+  content: '“';
+  font-size: 150px;
+  position: absolute;
+  left: 435px;
+  top: 1445px;
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+}
+
+.differ {
+  margin: auto;
+  width: 41%;
+}
+
+.artheader3 {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 21px;
+  font-weight: bold;
+  margin: 0;
+
+}
+
+.artsub {
+  font-family: 'Merriweather', serif;
+  margin-top: 4px;
+  font-size: 14px;
+}
+
+.differlist {
+  margin-bottom: 40px;
+}
+
+.listlowtext {
+  font-family: 'Josefin Sans', sans-serif;
+  font-size: 14px;
+  line-height: 20px;
+}
+
+#thirdquo::before {
+  content: '“';
+  font-size: 150px;
+  position: absolute;
+  top: 2165px;
+  left: 435px;
+  color: white;
+  font-family: 'Abril Fatface', cursive;
+}
+
+div {
+  width: 41%;
+  background-color: black;
+  height: 5px;
+  margin: auto;
+  margin-bottom: 50px;
+}

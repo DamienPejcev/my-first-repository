@@ -1,0 +1,27 @@
+main {
+  color: white;
+  text-align: center;
+  width: 225px;
+  font-weight: bold;
+  font-family: 'Roboto', sans-serif;
+}
+.red {
+  border: 8px solid #4285f4;
+  font-size: 24px;
+  background: #E67676;
+  margin-bottom: 10px;
+}
+
+.north {
+  padding: 10px;
+}
+
+.blue {
+  border: 8px solid #4285f4;
+  font-size: 24px;
+  background: #A9E6E6;
+}
+
+.south {
+  padding: 10px;
+}
